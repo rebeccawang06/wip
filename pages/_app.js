@@ -21,7 +21,7 @@ export default class App extends NextApp {
           <ul style={{marginBottom:'2px'}}>
             <li>Coming back in 1-2 weeks</li>
             <li>Contact me at <a href="mailto:hello@rbccawang.com" style={{ color: '#0096FF', textDecoration: 'none'}}>hello@rbccawang.com</a></li>
-            <li><a href="https://www.linkedin.com/in/rebeccawang06/" style={{ color: '#0096FF', textDecoration: 'none'}}>Message me on LinkedIn</a></li>
+            <li><a href="https://www.linkedin.com/in/rbccawang/" style={{ color: '#0096FF', textDecoration: 'none'}}>Message me on LinkedIn</a></li>
           </ul>
           <h3>ERR_CHECK_LATER_WIP</h3>
         </div>
