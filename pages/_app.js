@@ -13,6 +13,18 @@ export default class App extends NextApp {
       <ThemeProvider theme={theme}>
         <ColorSwitcher />
         <Component {...pageProps} />
+        <div style={{ display: 'flex', alignItems: 'left', justifyContent: 'center', height: '90vh',flexDirection: 'column', textAlign: 'left', marginLeft: '50px'}}>
+          <img src="https://play-lh.googleusercontent.com/i-0HlK6I-K5ZVI28HFa4iXz0T22Mg2WjQ4gMsEYvqmSNdifp2NE41ZiaUCavmbIimQ=s180-rw" style={{ width: '4%', height: '8%'}}></img>
+          
+          <h1 style={{marginBottom:'0px'}}>Work in Progress</h1>
+          <h2 style={{marginBottom:'2px'}}>Try:</h2>
+          <ul style={{marginBottom:'2px'}}>
+            <li>Coming back in 1-2 weeks</li>
+            <li>Contact me at <a href="mailto:hello@rbcca.dev" style={{ color: '#0096FF', textDecoration: 'none'}}>hello@rbcca.dev</a></li>
+            <li><a href="https://www.linkedin.com/in/rebeccawang06/" style={{ color: '#0096FF', textDecoration: 'none'}}>Message me on Linkedin</a></li>
+          </ul>
+          <h3>DNS_PROBE_FINISHED_WIP</h3>
+        </div>
       </ThemeProvider>
     )
   }
