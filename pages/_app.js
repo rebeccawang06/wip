@@ -20,7 +20,7 @@ export default class App extends NextApp {
           <h2 style={{marginBottom:'2px'}}>Try:</h2>
           <ul style={{marginBottom:'2px'}}>
             <li>Coming back in 1-2 weeks</li>
-            <li>Contact me at <a href="mailto:hello@rbcca.dev" style={{ color: '#0096FF', textDecoration: 'none'}}>hello@rbcca.dev</a></li>
+            <li>Contact me at <a href="mailto:hello@rbccawang.com" style={{ color: '#0096FF', textDecoration: 'none'}}>hello@rbccawang.com</a></li>
             <li><a href="https://www.linkedin.com/in/rebeccawang06/" style={{ color: '#0096FF', textDecoration: 'none'}}>Message me on LinkedIn</a></li>
           </ul>
           <h3>ERR_CHECK_LATER_WIP</h3>
