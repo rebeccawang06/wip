@@ -14,7 +14,7 @@ export default class App extends NextApp {
         <ColorSwitcher />
         <Component {...pageProps} />
         <div style={{ display: 'flex', alignItems: 'left', justifyContent: 'center', height: '90vh',flexDirection: 'column', textAlign: 'left', marginLeft: '50px'}}>
-          <img src="https://play-lh.googleusercontent.com/i-0HlK6I-K5ZVI28HFa4iXz0T22Mg2WjQ4gMsEYvqmSNdifp2NE41ZiaUCavmbIimQ=s180-rw" style={{ width: '5%', height: '8%'}}></img>
+          <img src="https://play-lh.googleusercontent.com/i-0HlK6I-K5ZVI28HFa4iXz0T22Mg2WjQ4gMsEYvqmSNdifp2NE41ZiaUCavmbIimQ=s180-rw" style={{ width: '6%', height: '8%'}}></img>
           
           <h1 style={{marginBottom:'0px'}}>Work in Progress</h1>
           <h2 style={{marginBottom:'2px'}}>Try:</h2>
